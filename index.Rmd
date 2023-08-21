@@ -2,4 +2,5 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+My name is Gitte Brix. I am a PhD student with the Department of Cardiovascular Research at the Regional Hospital of Gødstrup, Denmark. My project centers around predictive models of chronic coronary syndrome and utilizes genomic and proteomic data to improve existing models. 
+This approach requires advanced statistic methods and machine learning owing to the large data input.
